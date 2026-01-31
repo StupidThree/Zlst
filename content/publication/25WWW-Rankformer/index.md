@@ -9,7 +9,6 @@ authors:
   - ShenHan
   - JiaweiChen
   - ShengZhou
-  - BohaoWang
   - YanFeng
   - ChunChen
   - CanWang

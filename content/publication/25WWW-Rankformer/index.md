@@ -40,7 +40,7 @@ abstract: 'Recommender Systems (RS) aim to generate personalized ranked lists fo
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Sign-aware Recommendation, Graph, Transformer]
+tags: [Recommendation, Transformer, Personalized Ranking]
 
 # Display this page in the Featured widget?
 featured: true

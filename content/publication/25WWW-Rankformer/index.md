@@ -8,7 +8,9 @@ authors:
   - SiruiChen
   - ShenHan
   - JiaweiChen
+  - BinbinHu
   - ShengZhou
+  - GangWang
   - YanFeng
   - ChunChen
   - CanWang

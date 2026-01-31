@@ -10,6 +10,8 @@ authors:
   - ShengZhou
   - BohaoWang
   - ShenHan
+  - ChanfeiSu
+  - YuqingYuan
   - CanWang
 
 # Author notes (optional)

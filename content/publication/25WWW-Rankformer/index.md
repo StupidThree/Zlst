@@ -52,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2503.16927'
+url_pdf: 'https://arxiv.org/pdf/2503.16927'
 url_code: 'https://github.com/StupidThree/Rankformer'
 url_dataset: 'https://github.com/StupidThree/Rankformer'
 url_poster: ''
